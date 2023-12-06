@@ -1,4 +1,4 @@
-# book_reader_webapp
+# Welcome to pocketBook!
 Files for a book reader webapplication
 
 This application functions by taking a book divided into chapters and a table of contents with each being a separate text file and being stored in the 'DATA' folder
