@@ -11,7 +11,7 @@ From there run the following commands
 
 ```bash
 bundle install
-bundle exec ruby book_viewer.rb
+bundle exec ruby book_viewer/book_viewer.rb
 ```
 
 After running these commands, if you visit localhost:4567, you will have access to your book reader!
