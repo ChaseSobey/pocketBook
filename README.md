@@ -1,4 +1,4 @@
-# Welcome to pocketBook!
+# Welcome to pocket book!
 
 Files for a book reader webapplication
 
